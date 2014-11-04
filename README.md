@@ -20,3 +20,5 @@ Install Notes
 1. **Auth Token** - User API token. User must have access to task, all comments will be attributed to this user. See: http://developer.asana.com/documentation/#Authentication
 2. **Restrict to Branch** - Comma-separated list of branches which will be automatically inspected. Leave blank to include all branches.
 3. **Restrict to Last Commit** - Will only inspect the last commit of each push for task IDs.
+
+Test 2
